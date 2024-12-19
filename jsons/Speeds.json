@@ -26,5 +26,33 @@
             {"yearsPerTurn":  2, "untilTurn": 147},
             {"yearsPerTurn":  1.6, "untilTurn": 167}
         ]
+    },
+    {
+        "name": "Ultra Blitz",
+        "modifier": 0.2,
+        "productionCostModifier": 0.2,
+        "goldCostModifier": 0.2,
+        "scienceCostModifier": 0.2,
+        "cultureCostModifier": 0.2,
+        "faithCostModifier": 0.2,
+        "improvementBuildLengthModifier": 0.2,
+        "barbarianModifier": 0.2,
+        "goldGiftModifier": 2.0,
+        "cityStateTributeScalingInterval": 1.4,
+        "goldenAgeLengthModifier": 0.2,
+        "religiousPressureAdjacentCity": 16,
+        "peaceDealDuration": 4,
+        "dealDuration": 10,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn": 160, "untilTurn":  20},
+            {"yearsPerTurn": 120, "untilTurn":  35},
+            {"yearsPerTurn": 40, "untilTurn": 48},
+            {"yearsPerTurn": 16, "untilTurn": 65},
+            {"yearsPerTurn": 8, "untilTurn": 85},
+            {"yearsPerTurn":  4, "untilTurn": 104},
+            {"yearsPerTurn":  2, "untilTurn": 143},
+            {"yearsPerTurn":  1.6, "untilTurn": 165}
+        ]
     }
 ]
